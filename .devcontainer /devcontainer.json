@@ -20,7 +20,5 @@
       "3000": {
         "label": "Application" 
       }
-    },
-    "forwardPorts": [3000]
+    },"forwardPorts": [3000]
   }
-  
